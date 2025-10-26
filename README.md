@@ -51,3 +51,9 @@ Reforzar los conocimientos del protocolo **TCP/IP** mediante la implementación 
 2. Ejecuta el servidor:
    ```bash
    python3 server.py
+
+### En el **cliente (windows)**
+3. Abre una terminal en la carpeta del proyecto.
+4. Ejecuta el servidor:
+   ```bash
+   python3 cliente.py
