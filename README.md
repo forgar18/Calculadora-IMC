@@ -58,32 +58,20 @@ Reforzar los conocimientos del protocolo **TCP/IP** mediante la implementación 
    ```bash
    python3 cliente.py
 
-📡 Monitoreo con Wireshark
+## 📡 Monitoreo con Wireshark
 
-Para analizar la comunicación entre cliente y servidor:
+- Para analizar la comunicación entre cliente y servidor:
 
-Abre Wireshark.
+- Abre Wireshark.
 
-Selecciona la interfaz de red VirtualBox Host-Only Network.
+- Selecciona la interfaz de red VirtualBox Host-Only Network.
 
-Aplica el filtro:
+- Aplica el filtro:
 
-tcp.port == 5000
+      tcp.port == 5000
+
 
 
 Ejecuta el cliente y observa el intercambio de paquetes TCP entre ambos sistemas.
 
-🧠 Ejemplo de ejecución
 
-Cliente:
-
-Sexo (M/F/O): M
-Edad (años): 22
-Altura en metros (ej. 1.75): 1.80
-Peso en kg (ej. 68.5): 70
-[i] Conectando a 192.168.1.11:5000 ...
---- Resultado IMC ---
-IMC: 21.60
-Categoría: Peso normal
-Tienes un peso saludable. ¡Sigue así!
----------------------
