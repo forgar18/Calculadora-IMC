@@ -1,4 +1,4 @@
-Repositorio: ([pegar enlace a GitHub](https://github.com/forgar18/Calculadora-IMC))
+Repositorio: (https://github.com/forgar18/Calculadora-IMC)
 
 # 🧠 Proyecto IMC Remoto - Cliente/Servidor con TCP
 
